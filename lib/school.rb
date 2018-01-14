@@ -21,4 +21,4 @@ end
 
 # learn --fail-fast
 
-# 
+# ad=School.new("ad")
