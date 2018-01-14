@@ -18,7 +18,7 @@ class School
   end
   
 end 
-#
+
 # learn --fail-fast
 
 # ad=School.new("ad")
